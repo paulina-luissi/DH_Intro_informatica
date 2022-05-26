@@ -1,2 +1,3 @@
 Estamos aprendiendo a trabajar de forma colaborativa
 
+Ahora agregamos y modificamos el archivo.
