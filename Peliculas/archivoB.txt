@@ -1,1 +1,5 @@
 Este es el contenido del archivo B
+
+Patricio: estoy agregando esta línea, como indica el punto 7, que nos pide trabajar
+ambos en el mismo archivo.
+
