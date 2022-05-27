@@ -1,2 +1,1 @@
-Este es el contenido del archivo A
-y ahora yo lo estoy actualizando
+Este es el contenido del archivo A y ahora yo lo estoy actualizando
